@@ -217,6 +217,10 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
+## Video PoC
+
+[![Watch the video](thumbnail.jpg)](https://github.com/HackWidMaddy/EvilRoom/raw/main/edited.mp4)
+
 ## 🛡️ Disclaimer
 
 This project is for **educational and research purposes only**. Ensure proper privacy compliance and obtain consent when deploying in real environments.
