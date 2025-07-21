@@ -6,6 +6,9 @@
 [![Python 3.8+](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/downloads/)
 [![ESP32](https://img.shields.io/badge/ESP32-Compatible-red.svg)](https://www.espressif.com/en/products/socs/esp32)
 
+<img width="1536" height="1024" alt="de435e2e-c5d9-4331-9987-27a3004517ef" src="https://github.com/user-attachments/assets/452bb780-885e-48de-8fb0-684bf49fe8bb" />
+
+
 ## 🎯 Overview
 
 This project uses **Channel State Information (CSI)** from an ESP32 device to detect and classify human presence into **four predefined zones** within a room using machine learning techniques. The system operates entirely through Wi-Fi signal analysis, making it a non-intrusive privacy-friendly solution.
